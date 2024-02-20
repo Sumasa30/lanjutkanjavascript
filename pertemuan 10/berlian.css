@@ -1,0 +1,22 @@
+.nama1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nama2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sumbit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+
+}
